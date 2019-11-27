@@ -1,7 +1,7 @@
 /*================================ Main Wallpaper ================================*/
 #app-mount 
 { 
-    background:url('https://cdn.discordapp.com/attachments/429714657331249152/649391104503971842/R4HPUxC.png') center/cover no-repeat !important;
+    background:url('https://cdn.discordapp.com/attachments/429714657331249152/649394077384572940/R4HPUxC.png') center/cover no-repeat !important;
     /* 
     https://i.ibb.co/qyq2Mvw/R4HPUxC.png border
     https://i.ibb.co/98f2jx9/R4HPUxC.png borderless
@@ -10,6 +10,7 @@
 }
 #app-mount:before { /* theatre effect */
     content: "";
+    display: none;
     position: absolute;
     left: 0;
     width: 100%;
@@ -21,6 +22,7 @@
 }
 #app-mount:after { /* lattice effect */
     content: "";
+    display: none;
     position: absolute;
     top: 0;
     left: 0;
@@ -28,7 +30,7 @@
     height: 100%;
     background: url('https://i.ibb.co/Fq9Jt09/Nie-R-Lattice.png');
     z-index: 10000000000000;
-    opacity: 0.03;
+    opacity: 0.00;
     user-select: none;
     pointer-events: none;
 }
