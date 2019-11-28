@@ -1,7 +1,7 @@
 /*================================ Main Wallpaper ================================*/
 #app-mount 
 { 
-    background:url('https://cdn.discordapp.com/attachments/429714657331249152/649395262930026537/R4HPUxC.png') center/cover no-repeat !important;
+    background:url('https://cdn.discordapp.com/attachments/429714657331249152/649413285124374595/R4HPUxC.png') center/cover no-repeat !important;
     /* 
     https://i.ibb.co/qyq2Mvw/R4HPUxC.png border
     https://i.ibb.co/98f2jx9/R4HPUxC.png borderless
@@ -1889,7 +1889,7 @@ path[d="M14 8C14 7.44772 13.5523 7 13 7H9.76001L10.3657 3.58738C10.4201 3.28107 
 .contentHoveredVoice-3p_NEO /* HOVERED VOICE */
 {
     /* animation-name: pulsingShadow;
-    animation-duration: 8s;
+    animation-duration: 32s;
     animation-iteration-count: infinite; */
     box-shadow: 0  3px 0 0 var(--color-low),
                 0 -3px 0 0 var(--color-low);
@@ -1899,7 +1899,7 @@ path[d="M14 8C14 7.44772 13.5523 7 13 7H9.76001L10.3657 3.58738C10.4201 3.28107 
 .contentHoveredText-2D9B-x /* HOVERED CHANNEL BACKGROUND */
 {
     /* animation-name: pulsingShadow;
-    animation-duration: 8s;
+    animation-duration: 32s;
     animation-iteration-count: infinite; */
     box-shadow: 0  3px 0 0 var(--color-low),
                 0 -3px 0 0 var(--color-low);
