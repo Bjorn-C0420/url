@@ -2352,7 +2352,7 @@ path[d="M10.6666667,6 C10.6666667,6.79333333 10.44,7.53333333 10.0666667,8.18666
 .theme-dark .expandedFolderBackground-2sPsd-.collapsed-1GMuSb, .theme-light .expandedFolderBackground-2sPsd-.collapsed-1GMuSb,
 .theme-dark .expandedFolderBackground-2sPsd-.selected-2vZ0oV, .theme-light .expandedFolderBackground-2sPsd-.selected-2vZ0oV /* FOLDER TAB HOVER */
 {
-    background: var(--color-low) !important;
+    background: var(--color-high) !important;
 }
 .folderIconWrapper-226oVY, .da-folderIconWrapper,
 .theme-dark .folder-21wGz3, .theme-light .folder-21wGz3 /* FOLDER TAB BACKGROUND */
@@ -2367,8 +2367,8 @@ svg[name="Folder"] /* FOLDER ICON */
 .theme-dark .folder-21wGz3.mouseHover-bMC8x3, .theme-light .folder-21wGz3.mouseHover-bMC8x3, /* FOLDER BACKGROUND EXPANDED HOVER */
 .theme-dark .expandedFolderBackground-2sPsd-, .theme-light .expandedFolderBackground-2sPsd- /* FOLDER BACKGROUND EXPANDED */
 {
-    background-color: var(--color-low);
-    box-shadow: 3px 3px 0 var(--color-high);
+    background-color: var(--color-high);
+    box-shadow: 3px 3px 0 var(--color-mid);
 }
 .total-3tKGEB:after, /* VOICE CHANNEL MAX MEMBERS SLANT */
 .total-3tKGEB, /* VOICE CHANNEL MAX MEMBERS RIGHT */
