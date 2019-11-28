@@ -2992,10 +2992,7 @@ svg[name="Folder"] /* FOLDER ICON */
 
 
 
-.theme-dark .headerCozyMeta-rdohGq > span > span /* CHANGES ROLE COLOR IN MESSAGE HEADERS TO --color-low */
-{
-    color: var(--color-low) !important;
-}
+
 /* ===================================== MEMBERS ==================================== */
 /* THANKS TO GOMONKEYMANGO FOR LETTING ME USE THIS CODE */
 .da-privateChannels .da-systemPad .selected-aXhQR6,
