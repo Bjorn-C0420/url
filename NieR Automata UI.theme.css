@@ -124,10 +124,7 @@ strong {font-family: Arial, Helvetica, sans-serif}
 
 
 
-.theme-dark .headerCozyMeta-rdohGq /* CHANGES ROLE COLOR IN MESSAGE HEADERS TO --color-low */
-{
-    color: var(--color-low) !important;
-}
+
 div[class="backdrop-1wrmKB da-backdrop"] /* BACKDROP WHEN YOU LOOK AT CONTEXT MENU/IMAGE UPLOAD/ETC */
 {
     background:rgba(0, 0, 0, 0.2) !important
