@@ -1703,8 +1703,7 @@ svg[name="TitleBarMaximize"] > rect /* MAXIMIZE BUTTON */
     color: var(--color-high);
     z-index: 10;
 }
-.clickable-1JJAn8.container-2Pjhx-:active a, .selected-aXhQR6.container-2Pjhx- a,
-.channel-2QD9_O:hover  a
+.clickable-1JJAn8.container-2Pjhx-:active a, .channel-2QD9_O:hover  a
 {
     animation-name: pulsingBackground;
     animation-duration: 1.5s;
