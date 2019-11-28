@@ -1706,7 +1706,7 @@ svg[name="TitleBarMaximize"] > rect /* MAXIMIZE BUTTON */
 .clickable-1JJAn8.container-2Pjhx-:active a, .channel-2QD9_O:hover  a
 {
     animation-name: pulsingBackground;
-    animation-duration: 1.5s;
+    animation-duration: 12s;
     animation-iteration-count: infinite;
     transition: width 0.4s;
     width: 100%;
@@ -1727,7 +1727,7 @@ svg[name="TitleBarMaximize"] > rect /* MAXIMIZE BUTTON */
 .channel-2QD9_O a::before 
 {
     animation-name: pulsingBackground;
-    animation-duration: 1.5s;
+    animation-duration: 12s;
     animation-iteration-count: infinite;
     content: "";
     position: absolute;
