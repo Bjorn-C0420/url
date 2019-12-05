@@ -302,7 +302,7 @@ button:hover .listenAlongIcon-2WbU7U, /* USER POPOUT LISTEN ALONG ICON HOVER */
 /* LOW TEXT SEMI TRANSPARENT */
 .base-34jWEe h1 /* WELCOME TO THE BEGINNING OF THE " " CHANNEL */
 {
-    color: rgba(55,155,160,1);
+    color: rgba(87,84,74,0.6);
     
 }
 /* MID TEXT */
@@ -1383,7 +1383,7 @@ svg[name="TitleBarMaximize"] > rect /* MAXIMIZE BUTTON */
     .theme-dark .topic-2QX7LI a, /* LINKS IN HEADER */
     .theme-dark .markup-2BOw-j a /* LINKS */
     {
-        color: rgba(87,84,74,0.65) !important;
+        color: rgba(55,155,160,1) !important;
     }
     .contentCozy-3XX413 /* MESSAGE CONTAINER */
     {
