@@ -1382,7 +1382,7 @@ svg[name="TitleBarMaximize"] > rect /* MAXIMIZE BUTTON */
     .theme-dark .topic-2QX7LI a, /* LINKS IN HEADER */
     .theme-dark .markup-2BOw-j a /* LINKS */
     {
-        color: rgba(87,84,74,0.65) !important;
+        color: rgba(55,155,160,0.65) !important;
     }
     .contentCozy-3XX413 /* MESSAGE CONTAINER */
     {
@@ -2588,7 +2588,7 @@ svg[name="Folder"] /* FOLDER ICON */
     }
     .theme-dark .note-3kmerW textarea /* USER POPOUT TEXTAREA */
     {
-        font-size: 12pt;
+        font-size: 14pt;
         line-height: 1.5em;
         background: var(--color-mid);
         color: var(--color-high);
@@ -3828,6 +3828,6 @@ path[d="M12 16c1.1045695 0 2 .8954305 2 2s-.8954305 2-2 2-2-.8954305-2-2 .895430
 
 .theme-dark.platform-web .textArea-2Spzkt, .theme-dark.platform-win .textArea-2Spzkt
 {
-    font-size: 11pt;
+    font-size: 14pt;
     font-weight: 100 !important;
 }
