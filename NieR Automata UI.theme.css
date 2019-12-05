@@ -1374,7 +1374,7 @@ svg[name="TitleBarMaximize"] > rect /* MAXIMIZE BUTTON */
     }
     .uploadModalIn-1z07Bv .uploadDropModal-2kTwbc .inner-3nWsbo .title-2Vtl4y /* FILES TOO POWERFUL TITLE */
     {
-        font-size: 14pt;
+        font-size: 16pt;
     }
     .uploadModalIn-1z07Bv .uploadDropModal-2kTwbc.error-kKl9o2 /* TOO POWERFUL BACKGROUND COLOR */
     {
@@ -1383,7 +1383,7 @@ svg[name="TitleBarMaximize"] > rect /* MAXIMIZE BUTTON */
     .theme-dark .topic-2QX7LI a, /* LINKS IN HEADER */
     .theme-dark .markup-2BOw-j a /* LINKS */
     {
-        color: rgba(55,155,160,1) !important;
+        color: rgba(55,155,160,0.65) !important;
     }
     .contentCozy-3XX413 /* MESSAGE CONTAINER */
     {
