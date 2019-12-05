@@ -2588,7 +2588,7 @@ svg[name="Folder"] /* FOLDER ICON */
     }
     .theme-dark .note-3kmerW textarea /* USER POPOUT TEXTAREA */
     {
-        font-size: 14pt;
+        font-size: 17pt;
         line-height: 1.5em;
         background: var(--color-mid);
         color: var(--color-high);
@@ -3828,6 +3828,6 @@ path[d="M12 16c1.1045695 0 2 .8954305 2 2s-.8954305 2-2 2-2-.8954305-2-2 .895430
 
 .theme-dark.platform-web .textArea-2Spzkt, .theme-dark.platform-win .textArea-2Spzkt
 {
-    font-size: 14pt;
+    font-size: 11pt;
     font-weight: 100 !important;
 }
